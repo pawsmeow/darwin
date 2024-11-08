@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
             gameid: document.getElementById("tournament_creator").value,
             nickname: document.getElementById("tournament_name").value,
             username: document.getElementById("tournament_about").value,
-            web_app_type: "new_tur"
+            web_app_type: "new_tuwer"
         };
 
         // Отправка данных боту
